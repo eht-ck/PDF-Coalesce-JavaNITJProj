@@ -10,7 +10,7 @@ tasks, making it a useful tool for managing PDF files based on your specific req
 1) Installing Java JDK: Download and install the appropriate Java JDK distribution for your operating system from a
 trusted source. Set the JAVA_HOME environment variable to the JDK installation directory and add the JDK's "bin"
 directory to your system's PATH variable.
-2) Adding dependencies to the pom.xml file: Open the pom.xml file in your project's root directory and add the
+2) Adding dependencies from pom.xml file: Open the pom.xml file in your project's root directory and add the
 desired dependencies to the "dependencies" section by specifying their groupId, artifactId, and version.
 3)Indexing the pom.xml file: Open a command prompt or terminal window, navigate to your project's root directory,
 and run the command "mvn clean install" to build your project and create an index of its dependencies.
