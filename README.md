@@ -1,4 +1,4 @@
-# PDF COALESCE
+# PDF COALESCE (SWING GUI)
 ![image](https://github.com/eht-ck/PDF-Coalesce-JavaNITJProj/assets/95522110/5bde54ae-df0a-4503-8747-35af2017dbbb)
 
 The PDF coalesce tool is a highly flexible solution that can perform multiple actions on PDF files, including merging,
